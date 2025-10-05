@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Khyati 👋
+
+I’m a software engineer who's interested in technology and a lot of other things (a lot)
+Currently exploring **Go and Cloud platforms**
+
+---
+
+### 🔧 Tech Stack
+
+* **Languages**: Javascript, Typescript, Go, Kotlin (learning), Python, SQL
+* **Frontend**: React, Next.js, Typescript, Javascript, Maps(Google Maps, DeckGL, leaflet, Mapbox), jQuery, HTML, CSS
+* **Backend**: REST APIs, Concurrency, Data Processing
+* **Infrastructure & Tools**: Kubernetes, Docker, CI/CD, GCP, Terraform
+* **Other interests**: Test-Driven Development, Performance Optimization, Developer Experience
+
+---
+
