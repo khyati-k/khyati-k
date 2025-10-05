@@ -1,4 +1,4 @@
-## Greetings, Salutations, Welcome Humans and bots
+## Greetings, Salutations, welcome humans and bots
 
 <!--
 **khyati-k/khyati-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
