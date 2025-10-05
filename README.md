@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Khyati 👋
 
-I’m a software engineer who's interested in technology and a lot of other things (a lot)
+I’m a software engineer who's interested in technology and a lot of other things (a lot).
+
 Currently exploring **Go and Cloud platforms**
 
 ---
