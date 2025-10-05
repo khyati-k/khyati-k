@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings, Salutations, Welcome Humans and bots
 
 <!--
 **khyati-k/khyati-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +29,4 @@ Currently exploring **Go and Cloud platforms**
 * **Infrastructure & Tools**: Kubernetes, Docker, CI/CD, GCP, Terraform
 * **Other interests**: Test-Driven Development, Performance Optimization, Developer Experience
 
----
 
